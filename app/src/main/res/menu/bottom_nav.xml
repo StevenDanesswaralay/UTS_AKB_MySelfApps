@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/home">
+
+    </item>
+    <item
+        android:id="@+id/nav_daily"
+        android:title="Daily Activity"
+        android:icon="@drawable/daily">
+
+    </item>
+    <item
+        android:id="@+id/nav_gallery"
+        android:title="Gallery"
+        android:icon="@drawable/camera">
+
+    </item>
+    <item
+        android:id="@+id/nav_music"
+        android:title="Music"
+        android:icon="@drawable/musicn">
+
+    </item>
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profile2">
+
+    </item>
+</menu>
